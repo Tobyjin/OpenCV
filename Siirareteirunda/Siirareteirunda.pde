@@ -35,7 +35,7 @@ int flash_cnt = 0;
 int index_num=0;
 
 //半径
-float d_radius = 200.0;
+float d_radius = 100.0;
 
 //開始リスト
 ArrayList<Integer> start_list = new ArrayList<Integer>();
